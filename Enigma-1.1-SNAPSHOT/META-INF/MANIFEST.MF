@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.3.9
+Built-By: fishb
+Build-Jdk: 12.0.2
+Class-Path: lib/AbsoluteLayout-SNAPSHOT.jar
+Main-Class: com.EngimaFrame
+
